@@ -1,10 +1,10 @@
 # Amazon-Prime-Movies-TV-shows_Power-BI-report
 
-🚀 Just wrapped up building an Amazon Prime Movies & TV Shows Dashboard in Power BI!
+Just wrapped up building an Amazon Prime Movies & TV Shows Dashboard in Power BI!
 
 
-## Project objective
- The main objective of this project was to analyze Amazon Prime's vast collection of Movies and TV Shows using Power BI by importing and transforming data from a CSV file.
+## Project objective 🚀 
+The main objective of this project was to analyze Amazon Prime's vast collection of Movies and TV Shows using Power BI by importing and transforming data from a CSV file.
  By utilizing Power Query for data cleaning and shaping, the project aimed to build a visually engaging report that allows users to explore trends, filter data through slicers, and gain a deeper understanding of the streaming platform’s content library.
 
  ## Dashboard Interaction
@@ -46,6 +46,23 @@ KPI: Country-wise map visualization with top regions highlighted (like USA and I
 
 ## Dashboard 
 ! [Screenshot (495)](![amazon title ss](https://github.com/user-attachments/assets/ce19bffa-6e6c-47c2-9663-324026f580b7)
+
+
+ ## Project Insights 
+ This Power BI dashboard project analyzes a comprehensive dataset of Amazon Prime Movies & TV Shows sourced from a CSV file. The dataset includes metadata such as title type, genre, release year, country, director, and content rating. The dashboard uses Power Query for ETL (Extract, Transform, Load) processes and multiple visuals for storytelling.
+
+Key insights extracted from the dashboard:
+- Amazon Prime hosts a total of 9,655 titles, consisting of 7.81K movies and 1.85K TV shows.
+- The content spans from 1920 to 2021, with a major spike in releases after 2010.
+- Drama, Comedy, and Suspense are the most dominant genres.
+- The platform features a wide range of content ratings, with 13+ and 16+ being the most common.
+- Titles are created by over 5,700 directors, reflecting a diverse creative base.
+- The map visual shows that North America and South Asia contribute significantly to the content library.
+
+## Conclusion ✅ 
+This project demonstrates the power of Power BI in transforming raw CSV data into a compelling and interactive dashboard that reveals content trends, genre preferences, and regional insights of Amazon Prime’s media library. It showcases strong data storytelling skills, proficiency in Power Query for data transformation, and dashboard design to support decision-making and exploration.
+
+This dashboard can serve as a foundational template for streaming analytics, content planning, or entertainment data exploration projects.
 
 
 
