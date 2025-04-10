@@ -41,3 +41,10 @@ Trendline showing peak after 2010
 - Which countries contribute the most to the content library?
 KPI: Country-wise map visualization with top regions highlighted (like USA and India)
 
+
+
+
+## Dashboard 
+! [Screenshot (495)](https://github.com/peacerach/Amazon-Prime-Movies-TV-shows_Power-BI-report/blob/main/amazon%20title%20ss.png)
+
+
