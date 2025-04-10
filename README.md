@@ -12,31 +12,32 @@
 
 ##  📌 Questions and KPIs
 - How many total titles are available on Amazon Prime?
- Total Titles – 9,655
+ KPI:
+Total Titles – 9,655
 
 - What is the distribution between Movies and TV Shows?
-Movies – 7.81K
+KPI: Movies – 7.81K
 TV Shows – 1.85K
 
 - What are the most common content ratings on the platform?
-13+ – 2.1K titles
+KPI: 13+ – 2.1K titles
 16+ – 1.5K titles
 18+, R, PG-13, etc., shown with counts
 
 - Which are the top genres by number of shows?
-Drama – 986
+KPI: Drama – 986
 Comedy – 536
 Drama & Suspense – 399
 
 - From how many genres and directors is the content contributed?
-Total Genres – 519
+KPI: Total Genres – 519
 Total Directors – 5,771
 
 - What is the release timeline for Amazon Prime content?
-Start Year – 1920
+KPI: Start Year – 1920
 End Year – 2021
 Trendline showing peak after 2010
 
 - Which countries contribute the most to the content library?
-Country-wise map visualization with top regions highlighted (like USA and India)
+KPI: Country-wise map visualization with top regions highlighted (like USA and India)
 
